@@ -13,6 +13,7 @@
 		DCAABA042A10229700CAC917 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCAABA022A10229700CAC917 /* Main.storyboard */; };
 		DCAABA062A10229800CAC917 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCAABA052A10229800CAC917 /* Assets.xcassets */; };
 		DCAABA092A10229800CAC917 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCAABA072A10229800CAC917 /* LaunchScreen.storyboard */; };
+		DCAABA112A1024DF00CAC917 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCAABA102A1024DF00CAC917 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DCAABA052A10229800CAC917 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCAABA082A10229800CAC917 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCAABA0A2A10229800CAC917 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCAABA102A1024DF00CAC917 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DCAAB9FC2A10229700CAC917 /* AppDelegate.swift */,
 				DCAAB9FE2A10229700CAC917 /* SceneDelegate.swift */,
 				DCAABA002A10229700CAC917 /* ViewController.swift */,
+				DCAABA102A1024DF00CAC917 /* SecondView.swift */,
 				DCAABA022A10229700CAC917 /* Main.storyboard */,
 				DCAABA052A10229800CAC917 /* Assets.xcassets */,
 				DCAABA072A10229800CAC917 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				DCAABA012A10229700CAC917 /* ViewController.swift in Sources */,
 				DCAAB9FD2A10229700CAC917 /* AppDelegate.swift in Sources */,
+				DCAABA112A1024DF00CAC917 /* SecondView.swift in Sources */,
 				DCAAB9FF2A10229700CAC917 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
