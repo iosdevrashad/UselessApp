@@ -64,11 +64,11 @@
 				DCAAB9FE2A10229700CAC917 /* SceneDelegate.swift */,
 				DCAABA002A10229700CAC917 /* ViewController.swift */,
 				DCAABA102A1024DF00CAC917 /* SecondView.swift */,
+				DC6413562A102AEF005F61C6 /* SwiftUIView.swift */,
 				DCAABA022A10229700CAC917 /* Main.storyboard */,
 				DCAABA052A10229800CAC917 /* Assets.xcassets */,
 				DCAABA072A10229800CAC917 /* LaunchScreen.storyboard */,
 				DCAABA0A2A10229800CAC917 /* Info.plist */,
-				DC6413562A102AEF005F61C6 /* SwiftUIView.swift */,
 			);
 			path = UselessApp;
 			sourceTree = "<group>";
